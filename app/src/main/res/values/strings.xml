@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MapDemo</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="gpgbtn">Access GPS location in coordinates</string>
+    <string name="enablegps">Enable GPS in device</string>
+    <string name="lat">Longitude Show Here</string>
+    <string name="latshow">Latitude Show Here</string>
+    <string name="go_to_maps">Go To Maps</string>
+</resources>
